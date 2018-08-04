@@ -1,6 +1,8 @@
 # Object Detection
 This is exercise for object detection to help us building a dataset containing vision & trajectory data.
+
 ```ssd_mobilenet``` and ```tiny-yolo(coco)``` for realtime video input
+
 ```YOLOV3``` for image input
 
 
